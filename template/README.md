@@ -25,5 +25,9 @@
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
 
+### Publish contracts as NPM package
+
+`yarn release`
+
 # License
 MIT
